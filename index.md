@@ -48,7 +48,7 @@
 
 当您使用在线地图功能时，本应用会直接向您所选择的地图服务商请求地图瓦片。这些请求由您的设备直接发往该服务商，我们不参与、不代理、不留存。
 
-可能涉及的服务商包括（取决于您在设置中的选择）：高德地图、必应地图、Esri ArcGIS、Mapbox、OpenStreetMap 等。
+可能涉及的服务商包括（取决于您在设置中的选择）：高德地图、必应地图。
 
 在此过程中，相关服务商可能获知您的 IP 地址以及您所浏览的地图区域。这些行为受各服务商自身的隐私政策约束，建议您查阅相应条款。若您仅使用离线地图，则不会产生此类请求。
 
@@ -121,7 +121,7 @@ Triggered only when you actively use the file picker to import or export path da
 
 When you use online map features, the App requests map tiles directly from the map provider you have selected. These requests go from your device to that provider. We neither proxy nor retain them.
 
-Depending on your choice in settings, providers may include AutoNavi (Amap), Bing Maps, Esri ArcGIS, Mapbox, and OpenStreetMap.
+Depending on your choice in settings, providers may include AutoNavi (Amap) and Bing Maps.
 
 In the course of these requests, the relevant provider may learn your IP address and the map area you are viewing. This is governed by that provider's own privacy policy, which we encourage you to review. If you use offline maps only, no such requests are made.
 
